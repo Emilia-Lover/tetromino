@@ -7,7 +7,8 @@
     py -m pip install pygame
 <hr/>
 
-=============================
+저장 하는법
+===========================
     git add .
     git commit -m "저장할것 이름"
     git push origin master
