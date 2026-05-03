@@ -6,8 +6,9 @@
     python --version 3.11.x나오면 성공~
     py -m pip install pygame
 <hr/>
+
+=============================
     git add .
     git commit -m "저장할것 이름"
     git push origin master
-    
     git status # 상태 확인
